@@ -11,7 +11,7 @@ Built with **HTML, CSS, Bootstrap, and JavaScript**.
 
 The Nectar website is deployed using **GitHub Pages** and can be accessed here:
 
-🔗 **Live Site:** https://csonder.github.io/Nectar/
+🔗 **Live Site:** https://csaetang.github.io/Nectar/
 
 (No backend or server setup required.)
 
